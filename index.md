@@ -12,3 +12,7 @@ $ git status
 ```javascript
 var myVar = "Hello work!"
 ```
+
+- [x] List syntax is required
+- [x] This item is completed
+- [ ] This item is not completed
