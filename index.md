@@ -5,5 +5,10 @@
 ##### this is a H5 with markdown
 ###### this is a H6 with markdown
 
-![](https://octodex.github.com/images/yaktocat.png)
 
+```git
+$ git status
+```
+```javascript
+var myVar = "Hello work!"
+```
